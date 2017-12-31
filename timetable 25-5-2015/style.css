@@ -1,0 +1,44 @@
+ .Table
+    {
+        display: table;
+		margin: auto;
+    }
+    .Title
+    {
+        display: table-caption;
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .Heading
+    {
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+    }
+    .Row
+    {
+        display: table-row;
+    }
+    .Cell
+    {
+        display: table-cell;
+        border: solid;
+        border-width: thin;
+        padding-left: 15px;
+        padding-right: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+    }
+	
+.hover {
+        border: 3px dashed red;
+}
+.sublist
+    {
+        display: table-cell;
+        padding-left: 15px;
+        padding-right: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+    }

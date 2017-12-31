@@ -1,0 +1,19 @@
+#content{
+	width: 600px;
+	margin: auto;
+	margin-top: 100px;
+}
+#form{
+	padding: 10px;
+	background: #f7f7f7;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+#login{
+	width: 600px;
+	margin: auto;
+	background: #f7f7f7;
+}
